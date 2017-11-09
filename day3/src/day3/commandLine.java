@@ -25,7 +25,7 @@ public class commandLine {
         
     ///System.out.println("First name : "  + args[0]);
     System.out.println("last name : " + s);
-   
+    //demo test 
     
     }
     }
